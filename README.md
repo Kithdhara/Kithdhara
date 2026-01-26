@@ -1,4 +1,22 @@
-## Hi there 👋
+## Hi, I'm Kithdhara 👋
+
+I focus on building practical AI systems and intelligent applications, with an interest in how AI drives the evolution of technology. I enjoy turning ideas into working solutions through hands-on projects.
+
+🔧 Interests
+
+- Artificial Intelligence & Machine Learning
+
+- Intelligent assistants & automation
+
+- Applied AI for real-world problems
+
+🎯 Current Focus
+
+- Strengthening AI/ML fundamentals
+
+- Building hands-on projects and experiments
+
+- Learning by shipping and iterating
 
 <!--
 **Kithdhara/Kithdhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
